@@ -1,3 +1,6 @@
+
+//Author: Kevin Faucher
+
 import React, { Component } from 'react';
 import { View, TextInput, Button, Text, Image, StyleSheet } from 'react-native';
 
